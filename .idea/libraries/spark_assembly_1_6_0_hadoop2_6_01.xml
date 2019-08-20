@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spark-assembly-1.6.0-hadoop2.6.01">
+    <CLASSES>
+      <root url="jar://E:/Learning materials/22班/项目/项目day01/spark-assembly-1.6.0-hadoop2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/Learning materials/22班/项目/项目day01/spark-assembly-1.6.0-hadoop2.6.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
